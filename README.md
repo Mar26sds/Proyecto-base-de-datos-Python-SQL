@@ -1,3 +1,5 @@
+![0c152adc-ciclo-de-análisis-del-dato](https://user-images.githubusercontent.com/110724649/187027438-1d797865-9391-458e-80fc-6f3b15d6c055.jpg)
+
 # Proyecto creación de una base de datos usando Phyton y SQL.
 ### Mar Sánchez de Salas.
 
